@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(80, 11, 145);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(219, 208, 208);
+}
+
+.help, .cmds {
+    background-color: black;
+    padding:0 20px ;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
